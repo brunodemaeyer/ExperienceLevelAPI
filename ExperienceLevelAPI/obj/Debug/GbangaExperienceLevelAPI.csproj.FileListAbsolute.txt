@@ -1,0 +1,6 @@
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\bin\Debug\GbangaExperienceLevelAPI.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\bin\Debug\GbangaExperienceLevelAPI.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.pdb

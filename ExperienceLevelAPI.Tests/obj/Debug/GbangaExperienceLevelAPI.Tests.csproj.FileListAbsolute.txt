@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\GbangaExperienceLevelAPI.Tests.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\GbangaExperienceLevelAPI.Tests.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\obj\Debug\GbangaExperienceLevelAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\obj\Debug\GbangaExperienceLevelAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\obj\Debug\GbangaExperienceLevelAPI.Tests.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\obj\Debug\GbangaExperienceLevelAPI.Tests.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\GbangaExperienceLevelAPI.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI.Tests\bin\Debug\GbangaExperienceLevelAPI.pdb

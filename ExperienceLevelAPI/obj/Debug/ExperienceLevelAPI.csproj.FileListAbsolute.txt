@@ -1,0 +1,11 @@
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\bin\Debug\GbangaExperienceLevelAPI.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\bin\Debug\GbangaExperienceLevelAPI.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\ExperienceLevelAPI.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GbangaExperienceLevelAPI\GbangaExperienceLevelAPI\obj\Debug\GbangaExperienceLevelAPI.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\bin\Debug\ExperienceLevelAPI.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\obj\Debug\ExperienceLevelAPI.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\obj\Debug\ExperienceLevelAPI.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\obj\Debug\ExperienceLevelAPI.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\bin\Debug\ExperienceLevelAPI.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI\ExperienceLevelAPI\obj\Debug\ExperienceLevelAPI.dll
